@@ -1,0 +1,8 @@
+[
+  {"id": "be-java", "title": "Backend Engineer (Java)", "text": "Build microservices with Java, Spring Boot, Kafka and PostgreSQL. Deploy on AWS with Docker and Kubernetes. REST APIs, CI/CD, Redis caching."},
+  {"id": "fe-react", "title": "Frontend Engineer (React)", "text": "Develop user interfaces in React, TypeScript, JavaScript, HTML and CSS. Work with designers on UX, accessibility, and A/B testing."},
+  {"id": "ml-eng", "title": "Machine Learning Engineer", "text": "Train and deploy machine learning models with Python, scikit-learn, PyTorch and pandas. NLP, feature engineering, model evaluation, MLOps."},
+  {"id": "devops", "title": "DevOps Engineer", "text": "Own CI/CD pipelines with Jenkins and GitHub Actions. Infrastructure as code with Terraform. Kubernetes, Docker, AWS, monitoring and on-call."},
+  {"id": "data-eng", "title": "Data Engineer", "text": "Build data pipelines with Python, SQL, Spark and Airflow. Data warehousing on Snowflake and BigQuery. Kafka streaming and ETL."},
+  {"id": "mobile", "title": "Android Developer", "text": "Build Android apps in Kotlin and Java with Jetpack Compose, REST integrations, offline storage, and Play Store releases."}
+]
