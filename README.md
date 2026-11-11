@@ -1,5 +1,7 @@
 # AI-Powered Resume / Job Matching System
 
+[![CI](https://github.com/vgattikoppul2023-dot/resume-job-matcher/actions/workflows/ci.yml/badge.svg)](https://github.com/vgattikoppul2023-dot/resume-job-matcher/actions/workflows/ci.yml)
+
 An NLP matching engine that scores how well a resume fits a job posting and recommends the best-matching jobs in real time. Built with **Python, Flask, and scikit-learn** (TF-IDF + cosine similarity), containerized with **Docker**, and tested on every push with **GitHub Actions**.
 
 ## How it works
